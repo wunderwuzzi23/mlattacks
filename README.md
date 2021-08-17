@@ -1,7 +1,5 @@
 # Machine Learning Attack Series - Overview
 
-This repo contains is an index for the Husky AI Machine Learning Attack Series. 
-
 ![Machine Learning Attack Series](https://embracethered.com/blog/images/2020/ml-attack-series.jpg)
 
 The code for the Husky AI server and model files are [here](https://github.com/wunderwuzzi23/huskyai).
