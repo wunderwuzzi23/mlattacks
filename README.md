@@ -36,3 +36,6 @@ The code for the Husky AI server and model files are [here](https://github.com/w
 
 * [Participating in the Microsoft Machine Learning Security Evasion Competition - Bypassing malware models by signing binaries](https://embracethered.com/blog/posts/2020/microsoft-machine-learning-security-evasion-competition/)
 * [Husky AI Github Repo](https://github.com/wunderwuzzi23/huskyai/)
+
+
+Reminder: Penetration testing requires authorization from proper stakeholders. Information is provided for research and educational purposes to advance understanding of attacks and improve countermeasures.
