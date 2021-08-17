@@ -38,4 +38,4 @@ The code for the Husky AI server and model files are [here](https://github.com/w
 * [Husky AI Github Repo](https://github.com/wunderwuzzi23/huskyai/)
 
 
-Reminder: Penetration testing requires authorization from proper stakeholders. Information is provided for research and educational purposes to advance understanding of attacks and improve countermeasures.
+*Reminder: Penetration testing requires authorization from proper stakeholders. Information is provided for research and educational purposes to advance understanding of attacks and improve countermeasures.*
