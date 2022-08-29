@@ -31,6 +31,7 @@ The code for the Husky AI server and model files are [here](https://github.com/w
 * [CVE 2020-16977: VS Code Python Extension Remote Code Execution](https://embracethered.com/blog/posts/2020/cve-2020-16977-vscode-microsoft-python-extension-remote-code-execution/)
 * [Using Generative Adversarial Networks (GANs) to create fake husky images](https://embracethered.com/blog/posts/2020/machine-learning-attack-series-generative-adversarial-networks-gan/)
 * [Using Azure Counterfit to create adversarial examples](https://embracethered.com/blog/posts/2021/huskyai-using-azure-counterfit/)
+* [Backdooring Pickle Files](https://embracethered.com/blog/posts/2022/machine-learning-attack-series-injecting-code-pickle-files/)
 
 ## Miscellaneous
 
